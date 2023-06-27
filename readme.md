@@ -74,17 +74,45 @@ __Note: This is largely biased towards SQL Server, as this is where most of my k
 - [SQL Union overview, usage and examples](https://www.sqlshack.com/sql-union-overview-usage-and-examples/)
 
 #### DML - Selecting Data - Windowing
--[Window Functions – A Must-Know Topic for Data Engineers and Data Scientists](https://www.analyticsvidhya.com/blog/2020/12/window-function-a-must-know-sql-concept/)
+- [Window Functions – A Must-Know Topic for Data Engineers and Data Scientists](https://www.analyticsvidhya.com/blog/2020/12/window-function-a-must-know-sql-concept/)
+- [The Ultimate Guide to SQL Window Functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/)
+- [How to Use Window Functions in SQL – with Example Queries](https://www.freecodecamp.org/news/window-functions-in-sql/)
 
 #### DML - Inserting Data
+- [INSERT INTO VALUES](https://www.w3schools.com/sql/sql_insert.asp)
+- [INSERT INTO SELECT](https://www.w3schools.com/sql/sql_insert_into_select.asp)
+- [Inserting Data into Sql Server](https://www.tutorialsteacher.com/sqlserver/insert-data)
+- [SELECT INTO](https://www.w3schools.com/sql/sql_select_into.asp)
 
 #### DML - Updating data
+- [SQL Update Statement](https://www.w3schools.com/sql/sql_update.asp)
+- [SQL Server Update](https://www.sqlservertutorial.net/sql-server-basics/sql-server-update/)
 
 #### DML - Deleting data
+- [Delete in SQL](https://www.simplilearn.com/tutorials/sql-tutorial/delete-in-sql)
 
 #### DML - Merging data
+- [Understanding the SQL Merge Statement](https://www.sqlshack.com/understanding-the-sql-merge-statement/)
+- [SQL Server Merge](https://www.sqlservertutorial.net/sql-server-basics/sql-server-merge/)
+- [Using MERGE in SQL Server to insert, update and delete at the same time](https://www.mssqltips.com/sqlservertip/1704/using-merge-in-sql-server-to-insert-update-and-delete-at-the-same-time/)
 
 ### Data Defintion Language (DDL)
 
 #### DDL - CREATE/ ALTER/ DROP/ TRUNCATE
 - [SQL DDL: Getting started with SQL DDL commands in SQL Server](https://www.sqlshack.com/sql-ddl-getting-started-with-sql-ddl-commands-in-sql-server/)
+
+## Common Mistakes
+- [SQL Errors: Five Common SQL Mistakes](https://learnsql.com/blog/five-common-sql-errors/)
+- [10 Common SQL Programming Mistakes](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/ten-common-sql-programming-mistakes/)
+- [7 Must Know SQL Querying Mistakes & Fixes](https://towardsdatascience.com/7-must-know-sql-querying-mistakes-fixes-321ee292a251)
+- [5 Most Common SQL Mistakes to Avoid](https://towardsdatascience.com/5-most-common-sql-mistakes-you-should-avoid-dd4eb4088f0c)
+
+## Additional Sources
+
+### Reccomended Books
+- [Exam Ref 70-761 Querying Data with Transact-SQL](https://www.amazon.com/Exam-70-761-Querying-Data-Transact-SQL-ebook/dp/B06Y21QGGQ/ref=sr_1_3?crid=UF30TC6TDGTR&keywords=querying+transact+sql&qid=1687891036&s=books&sprefix=querying+transact+sql%2Cstripbooks%2C68&sr=1-3)
+- [SQL QuickStart Guide: The Simplified Beginner's Guide to Managing, Analyzing, and Manipulating Data With SQL](https://www.amazon.com/SQL-QuickStart-Guide-Simplified-Manipulating/dp/1945051752/ref=zg_bs_g_3804_sccl_1/142-9099606-5642665?psc=1)
+- [T-SQL Querying (Developer Reference)](https://www.amazon.com/T-SQL-Querying-Developer-Reference-Ben-Gan/dp/0735685045/ref=zg_bs_g_3804_sccl_16/142-9099606-5642665?psc=1)
+- [Building the Data Warehouse](https://www.amazon.com/Building-Data-Warehouse-W-Inmon/dp/0764599445/ref=sr_1_19?crid=VVAP5AO7ZNBC&keywords=bill+inmon&qid=1687891140&s=books&sprefix=bill+inmon%2Cstripbooks%2C74&sr=1-19)
+
+### Reccomended Courses
