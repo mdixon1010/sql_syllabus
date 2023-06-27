@@ -2,7 +2,7 @@
 
 This repository is meant to be a reference of materials to learn all about [SQL](https://en.wikipedia.org/wiki/SQL).  This can be used by folks who are new to to the data space and/or SQL altogether and seasoned professionals to brush up on things, or provide additional materials for junior folks to use to learn. 
 
-Note: This is largely biased towards SQL Server, as this is where most of my knowledge converges to, however most of these concepts are portable to other RDBMS's such as Oracle, MySQL.  The SQL code itself, if written in its [ANSI](https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/#gref) form is also portable to databases of all flavors such as Amazon Redshift, Google BigQuery, Databricks SQL (Although, the latter is not really a database, but I hope you get my point!).
+__Note: This is largely biased towards SQL Server, as this is where most of my knowledge converges to, however most of these concepts are portable to other RDBMS's such as Oracle, MySQL.  The SQL code itself, if written in its [ANSI](https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/#gref) form is also portable to databases of all flavors such as Amazon Redshift, Google BigQuery, Databricks SQL (Although, the latter is not really a database, but I hope you get my point!).__
 
 ## The SQL Syllabus
 
@@ -58,10 +58,20 @@ Note: This is largely biased towards SQL Server, as this is where most of my kno
 - [SQL Server Correlated Subqueries](https://www.sqlservertutorial.net/sql-server-basics/sql-server-correlated-subquery/)
 
 #### DML - Selecting Data - Using Temp Tables
+- [SQL Sevrer Temporary Tables](https://www.sqlservertutorial.net/sql-server-basics/sql-server-temporary-tables/)
+- [Overview and Performance Tips of Temp Tables in SQL Server](https://www.sqlshack.com/overview-and-performance-tips-of-temp-tables-in-sql-server/)
+- [Temporary Tables in SQL Server](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/temporary-tables-in-sql-server/)
+- [Advanced SQL Tutorial | Temp Tables](https://www.youtube.com/watch?v=RF0LE3hYFrI)
 
 #### DML - Selecting Data - Using Common Tabe Expressions (CTEs)
+- [SQL Server CTE](https://www.sqlservertutorial.net/sql-server-basics/sql-server-cte/)
+- [WITH common_table_expression - TransactSQL](https://learn.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-ver16)
+- [CTE in SQL Server Examples](https://www.mssqltips.com/sqlservertip/6861/cte-in-sql-server-examples/)
+- [Advanced SQL Tutorial | CTE (Common Table Expressions)](https://www.youtube.com/watch?v=K1WeoKxLZ5o)
+- [SQL Server CTE vs Temp Table vs Table Variable Performance Test](https://www.mssqltips.com/sqlservertip/5118/sql-server-cte-vs-temp-table-vs-table-variable-performance-test/)
 
-#### DML - Selecting Data - The UNION, UNION ALL, EXCEPT operators
+#### DML - Selecting Data - The UNION, UNION ALL, EXCEPT, INTERSECT operators
+- [SQL Union overview, usage and examples](https://www.sqlshack.com/sql-union-overview-usage-and-examples/)
 
 #### DML - Selecting Data - Windowing
 -[Window Functions – A Must-Know Topic for Data Engineers and Data Scientists](https://www.analyticsvidhya.com/blog/2020/12/window-function-a-must-know-sql-concept/)
