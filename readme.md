@@ -13,6 +13,7 @@ This repository is meant to be a reference of materials to learn all about [SQL]
 - [The SQL SELECT Statement](https://www.w3schools.com/sql/sql_select.asp#:~:text=The%20SQL%20SELECT%20Statement,%2C%20called%20the%20result%2Dset.)
 
 #### DML - Selecting Data - Using Distinct
+- [SELECT DISTINCT](https://www.w3schools.com/sql/sql_distinct.asp)
 
 #### DML - Selecting Data - Using Alias
 
