@@ -14,6 +14,9 @@ This repository is meant to be a reference of materials to learn all about [SQL]
 
 #### DML - Selecting Data - Using Distinct
 - [SELECT DISTINCT](https://www.w3schools.com/sql/sql_distinct.asp)
+- [More Examples](https://www.mssqltips.com/sqlservertip/6810/sql-select-distinct-examples/)
+- [COUNT() function with distinct clause](https://www.w3resource.com/sql/aggregate-functions/count-with-distinct.php)
+- [SQL Server 2019 APPROX_COUNT_DISTINCT Function](https://www.mssqltips.com/sqlservertip/5842/sql-server-2019-approxcountdistinct-function/)
 
 #### DML - Selecting Data - Using Alias
 
