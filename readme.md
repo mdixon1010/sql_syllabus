@@ -1,6 +1,6 @@
 # Learning SQL Reference Guide
 
-This repository is meant to be a reference of materials to learn all about [SQL](https://en.wikipedia.org/wiki/SQL).  This can be used by folks who are new to to the data space and/or SQL altogether and seasoned professionals to brush up on things, or provide additional materials to the junior folks using it for learning. 
+This repository is meant to be a reference of materials to learn all about [SQL](https://en.wikipedia.org/wiki/SQL).  This can be used by folks who are new to to the data space and/or SQL altogether and seasoned professionals to brush up on things, or provide additional materials for junior folks to use to learn. 
 
 ## The SQL Syllabus
 
