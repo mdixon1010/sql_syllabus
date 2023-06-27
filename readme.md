@@ -8,7 +8,9 @@ This repository is meant to be a reference of materials to learn all about [SQL]
 
 #### DML - Selecting Data - Basics
 
-- [Getting Data From a Database](https://medium.com/swlh/searching-through-a-database-52eaaf64f89c)
+- [SQL Server SELECT Examples](https://www.mssqltips.com/sqlservertip/6818/sql-select-examples/)
+- [Table Basics](https://www.sqlcourse.com/beginner-course/table-basics/)
+- [The SQL SELECT Statement](https://www.w3schools.com/sql/sql_select.asp#:~:text=The%20SQL%20SELECT%20Statement,%2C%20called%20the%20result%2Dset.)
 
 #### DML - Selecting Data - Using Distinct
 
