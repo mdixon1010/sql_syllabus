@@ -116,3 +116,4 @@ __Note: This is largely biased towards SQL Server, as this is where most of my k
 - [Building the Data Warehouse](https://www.amazon.com/Building-Data-Warehouse-W-Inmon/dp/0764599445/ref=sr_1_19?crid=VVAP5AO7ZNBC&keywords=bill+inmon&qid=1687891140&s=books&sprefix=bill+inmon%2Cstripbooks%2C74&sr=1-19)
 
 ### Reccomended Courses
+- [Querying Microsoft SQL Server with Transact-SQL](https://www.udemy.com/course/70-461-session-2-querying-microsoft-sql-server-2012/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-17MjWt7PdeK4ftPdH_1cLw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
