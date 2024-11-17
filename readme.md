@@ -141,3 +141,4 @@ __Note: This is largely biased towards SQL Server, as this is where most of my k
 
 ### Reccomended Courses
 - [Querying Microsoft SQL Server with Transact-SQL](https://www.udemy.com/course/70-461-session-2-querying-microsoft-sql-server-2012/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-17MjWt7PdeK4ftPdH_1cLw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+
